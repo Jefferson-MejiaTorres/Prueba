@@ -1,6 +1,6 @@
 import random
 import os
-
+#Soy Jefferson Mejia
 # Colores para la salida
 class Colores:
     HEADER = '\033[95m'
